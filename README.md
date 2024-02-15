@@ -1,6 +1,6 @@
 # Zero Suit Samus Information Website
 
-## A Project created for the Web Development course (CSIS	1280) at Douglas College 
+## A Project created for the Web Development 
 
 This was a website I created for my main character in the game Super Smash Brothers Ultimate. This website includes:
 
